@@ -8,6 +8,6 @@
 			{ "item": "minecraft:soul_sand" },
 			{ "item": "minecraft:water_bucket" }
 		],
-		"result": { "item": "cda001:chunk_loader_block" }
+		"result": { "item": "cda001:chunk_loader_block" }, { "item": "minecraft:bucket" }
 	}
 }
