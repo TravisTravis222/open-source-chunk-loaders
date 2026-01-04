@@ -4,8 +4,9 @@
 		"description": { "identifier": "cda001:chunk_loader" },
 		"tags": [ "crafting_table" ],
 		"ingredients": [
-			{ "item": "minecraft:nether_star" },
-			{ "item": "minecraft:lodestone" }
+			{ "item": "minecraft:ender_pearl" },
+			{ "item": "minecraft:soul_sand" },
+			{ "item": "minecraft:water_bucket" }
 		],
 		"result": { "item": "cda001:chunk_loader_block" }
 	}
