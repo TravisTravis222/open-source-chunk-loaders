@@ -3,6 +3,7 @@ See more information about Open Source Chunk Loaders [here](https://cda94581.git
 
 Download the Add-on [here](https://github.com/cda94581/open-source-chunk-loaders/releases)
 
+This is an edited version of Open Source Chunk Loaders by cda94581 that changes the recipe to make it use an ender pearl, a water bucket, and soul sand. The following is the original README file.
 ## About
 Open Source Chunk Loaders is a project which helps to keep chunks loaded in Minecraft: Bedrock Edition. Minecraft worlds are loaded in "chunks", and in order to ensure the game's playability, only a certain number of chunks around each player are kept loaded. This project aims to resolve this with a chunk loader item, which enables certain chunks to always stay loaded. This is beneficial for AFK farms or other playerless contraptions that may need to stay in the game.
 
